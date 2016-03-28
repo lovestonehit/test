@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("hello world\n");afsf
+	printf("hello world\n");
 }
